@@ -1,4 +1,4 @@
-# 🐾 Sistema de Gestión - Clínica Veterinaria
+# 🐾 Sistema de Gestión - Clínica Veterinaria ([Repositorio Github](https://github.com/Abasterr/EM5-Clinica_Veterinaria))
 
 Este proyecto consiste en el diseño, implementación y consulta de una base de datos relacional para una clínica veterinaria, desarrollada como **Evaluación Final del Módulo 3** en **Kibernum IT Academy**.
 
@@ -37,4 +37,5 @@ Para garantizar la **consistencia de los datos**, el proyecto incluye dos enfoqu
 ![alt text](schema.png)
 ---
 **Desarrollado por:** Alfonso Basterrechea  
-**Fecha:** 12 Marzo 2025
+**Fecha:** 12 Marzo 2025  
+**Repositorio Github del Proyecto:** https://github.com/Abasterr/EM5-Clinica_Veterinaria
